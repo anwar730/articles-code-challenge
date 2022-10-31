@@ -92,6 +92,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 
 #### Magazine
 
+
 - `Magazine#contributors`
   - Returns an array of Author instances who have written for this magazine
 
